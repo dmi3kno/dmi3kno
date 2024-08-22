@@ -21,7 +21,7 @@
 
 I am a passionate consultant, analyst, and educator at Pavlovska Bureau. I am interested in statistical programming, decision analysis, and philosophy. Known for my ability to simplify complex concepts, I bridge the gap between data and decision-making. I also enjoy exploring new ideas and sharing my insights with the community. 
 
-![dmi3k's Stats](https://github-readme-stats.vercel.app/api?username=dmi3kno&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![dmi3k's Stats](https://github-readme-stats.vercel.app/api?username=dmi3kno&theme=swift&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
