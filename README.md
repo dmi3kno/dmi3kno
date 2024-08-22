@@ -25,9 +25,9 @@ I am a passionate consultant, analyst, and educator at Pavlovska Bureau. I am in
 
 ## 🚀 About Me
 
-- 🔭 I have recently defended by [PhD thesis](https://www.cec.lu.se/dmytro-perepolkin/publication/f4bf6ffc-b476-4289-8aee-42a6b5d74c00) at Lund University in Sweden.
-- ✍️ I am occassionally spilling electroic ink on Substack and my blog.
+- 🔭 I have recently defended a [PhD thesis](https://www.cec.lu.se/dmytro-perepolkin/publication/f4bf6ffc-b476-4289-8aee-42a6b5d74c00) at Lund University in Sweden.
 - 💬 I am curating two Peeriodicals: [Quantile Statistics Overlay](https://peeriodicals.com/peeriodicals/quantile-statistics-overlay) and [Bayes@Lund Overlay](https://peeriodicals.com/peeriodicals/bayes-at-lund-overlay)
+- ✍️ I am occassionally spilling electroic ink on Substack and my blog.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -41,7 +41,7 @@ I am a passionate consultant, analyst, and educator at Pavlovska Bureau. I am in
 
 ## 🌱 Currently Exploring
 
-- 🚀 I’m currently learning Julia.
+- 🚀 I’m learning Julia
   - I found [Exercism Julia track](https://exercism.org/tracks/julia) extremely helpful in practicing a new programming language
   - Check out my experimental [package](https://github.com/dmi3kno/QDistributions.jl) extending `Distributions.jl` 
   - I am interested in learning how to use Julia's powerful optimization frameworks to develop flexible distributions for Bayesian Analysis
@@ -50,7 +50,10 @@ I am a passionate consultant, analyst, and educator at Pavlovska Bureau. I am in
   - I use metaprogramming to modify the argument names in user-created functions.
 - 🚀 I am preparing a data literacy course in Python *without Pandas and Seaborn*
   - Based on modern data analysts stack using plotnine, polars and duckdb
-  - Includes environment management with uv and reproducible reports with Quarto 
+  - Covering environment management with uv and reproducible reports with Quarto
+- 🚀 I am thinking of launching a Misframed podcast
+  - Monthly conversations with philosophers, thinkers and researchers about consciousness, frames and decisions
+  - Hosted on Youtube and eventually tricking down into Spotify as audio
 
 ## 📬 Get in Touch
 
